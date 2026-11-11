@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="aa2/aa2.csproj" Id="f4ce390d-f5d4-4523-97da-7e9cb68d25e2">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
